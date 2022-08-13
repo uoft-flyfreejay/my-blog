@@ -1,6 +1,6 @@
 ---
 layout: post
-Author: Jay
+author: Jay
 title:  "First Blog"
 date:   2022-08-13 00:49:00 -0400
 categories: jekyll update
