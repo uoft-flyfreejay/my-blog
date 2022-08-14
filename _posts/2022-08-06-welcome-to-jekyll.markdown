@@ -6,7 +6,7 @@ date:   2022-08-13 00:49:00 -0400
 categories: jekyll update
 tags: beginning
 ---
-
+  
 ## My first Post!
 
 I will now use this blog to record my personal studies during my time at [UofT](https://www.utoronto.ca/).
